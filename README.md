@@ -1,5 +1,7 @@
 Course Registration System
+
 https://saimatahsin04.github.io/Course_Registration_System/
+
 Project Overview
 
 The Course Registration System is a DBMS lab project designed to manage student course registrations efficiently using a relational database. It provides a structured way to store, view, search, update, and delete student course registration records. The project demonstrates the practical application of Database Management System concepts, SQL queries, relational database design, and JavaScript integration.
